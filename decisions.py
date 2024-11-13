@@ -72,6 +72,7 @@ class decision_maker(Node):
         
         # TODO Part 3: Check if you reached the goal
         if type(self.goal) == list:
+            
             reached_goal=...
         else: 
             reached_goal=...
